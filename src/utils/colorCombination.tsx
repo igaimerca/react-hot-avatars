@@ -1,7 +1,14 @@
 import * as colors from './colors';
 import md5 from 'md5-hash'
 
+// Get a valid seed
+const getValidSeed = (name: any) => {
+    let hash = md5(name)
+    let seed = String(hash.replace(/\D/g, ''))
+    // console.log('seed' + seed)
 
+    return seed;
+}
 
 // Getting index level 1
 const getColorObject = (dig_one: any) => {
@@ -25,4 +32,23 @@ const getExactColor = (dig_one: any, dig_two: any) => {
     }
 
     return colorObject[index2];
+}
+
+export const returnColors = (name: any) => {
+    let seed = getValidSeed(name);
+    if (seed.length <= 1) {
+        return { bg: "#FFFFFF", front: "#0D4D8C" };
+    } else {
+        let dig_one = Number(seed[0]);
+        let dig_two = Number(seed[1]);
+
+        // console.log('digOne' + dig_one)
+
+        let color = getExactColor(dig_one, dig_two);
+        if (dig_one >= dig_two) {
+            return { bg: "#FFFFFF", front: color };
+        } else {
+            return { bg: color, front: "#FFFFFF" }
+        }
+    }
 }
