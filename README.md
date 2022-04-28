@@ -18,7 +18,7 @@
 </div>
 
 <div align="center">
-  <sub>Cooked by <a href="https://twitter.com/aimeigirimpuhwe">Aime</a> and  <a href="https://twitter.com/gasaroLeila/">Leila</a> 👨‍🍳</sub>
+  <small>Cooked by <a href="https://twitter.com/aimeigirimpuhwe">Aime</a> and  <a href="https://twitter.com/gasaroLeila/">Leila</a> 👨‍🍳</small>
 </div>
 
 <br />
@@ -49,13 +49,13 @@ yarn add react-hot-avatar
 
    Example
 
-    ```jsx
-    <Avatar name="john doe" size="300" rounded />
-    ```
+   ```jsx
+   <Avatar name="john doe" size="300" rounded />
+   ```
 
-    ```jsx
-    <Avatar name="_Leila" size="200" />
-    ```
+   ```jsx
+   <Avatar name="_Leila" size="200" />
+   ```
 
 A React Component using `react-hot-avatar`
 
