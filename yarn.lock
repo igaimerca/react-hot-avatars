@@ -1262,6 +1262,11 @@
   resolved "https://registry.npmjs.org/@types/json5/-/json5-0.0.29.tgz"
   integrity sha1-7ihweulOEdK4J7y+UnC86n8+ce4=
 
+"@types/md5@^2.3.2":
+  version "2.3.2"
+  resolved "https://registry.yarnpkg.com/@types/md5/-/md5-2.3.2.tgz#529bb3f8a7e9e9f621094eb76a443f585d882528"
+  integrity sha512-v+JFDu96+UYJ3/UWzB0mEglIS//MZXgRaJ4ubUPwOM0gvLc/kcQ3TWNYwENEK7/EcXGQVrW8h/XqednSjBd/Og==
+
 "@types/node@*":
   version "17.0.23"
   resolved "https://registry.npmjs.org/@types/node/-/node-17.0.23.tgz"
@@ -4990,7 +4995,7 @@ map-visit@^1.0.0:
 
 md5-hash@^1.0.1:
   version "1.0.1"
-  resolved "https://registry.yarnpkg.com/md5-hash/-/md5-hash-1.0.1.tgz#957d4a99987fa871ed451583360af5118baad725"
+  resolved "https://registry.npmjs.org/md5-hash/-/md5-hash-1.0.1.tgz"
   integrity sha1-lX1KmZh/qHHtRRWDNgr1EYuq1yU=
 
 mdn-data@2.0.14:
@@ -6761,7 +6766,7 @@ semver-regex@^3.1.2:
 
 "semver@2 || 3 || 4 || 5", semver@~5.3.0:
   version "5.3.0"
-  resolved "https://registry.yarnpkg.com/semver/-/semver-5.3.0.tgz#9b2ce5d3de02d17c6012ad326aa6b4d0cf54f94f"
+  resolved "https://registry.npmjs.org/semver/-/semver-5.3.0.tgz"
   integrity sha1-myzl094C0XxgEq0yaqa00M9U+U8=
 
 semver@7.0.0:
