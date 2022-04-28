@@ -1,0 +1,16 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #330033;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #040d36;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #021B79, #040d36);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #021B79, #040d36); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  margin-top: 6rem;
+  background-color: #413e3e;
+  color: #fff;
+  font: 400 16px/1.5 exo, sans-serif;
+}
