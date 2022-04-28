@@ -4988,6 +4988,11 @@ map-visit@^1.0.0:
   dependencies:
     object-visit "^1.0.0"
 
+md5-hash@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/md5-hash/-/md5-hash-1.0.1.tgz#957d4a99987fa871ed451583360af5118baad725"
+  integrity sha1-lX1KmZh/qHHtRRWDNgr1EYuq1yU=
+
 mdn-data@2.0.14:
   version "2.0.14"
   resolved "https://registry.npmjs.org/mdn-data/-/mdn-data-2.0.14.tgz"

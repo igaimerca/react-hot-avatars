@@ -64,5 +64,8 @@
     "tsdx": "^0.13.2",
     "tslib": "^2.0.0",
     "typescript": "^3.9.7"
+  },
+  "dependencies": {
+    "md5-hash": "^1.0.1"
   }
 }
