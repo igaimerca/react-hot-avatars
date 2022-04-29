@@ -1,6 +1,7 @@
 <h1>&lt;Avatar/&gt;</h1>
 
-<img alt="react-hot-avatars - Try it out" src="https://github.com/igaimerca/react-hot-avatars/raw/main/assets/banner.png"/>
+<!-- <img alt="react-hot-avatars - Try it out" src="https://github.com/igaimerca/react-hot-avatars/raw/main/assets/banner.png"/> -->
+<img alt="react-hot-avatars - Try it out" src="https://i.imgur.com/8BTaD0B.png"/>
 
 <div align="center">
     <img src="https://img.shields.io/npm/dm/react-hot-avatars.svg" alt="npm downloads" />
@@ -119,7 +120,7 @@ To contribute follow these simple steps :smiley:
 
 #### Make sure to make a good branch name
 
-Your branch should be name like `your_name/issue_fix`. <br /> 
+Your branch should be name like `your_name/issue_fix`. <br />
 For example: `gasaroleila/avatar-style`
 
 #### Issues
