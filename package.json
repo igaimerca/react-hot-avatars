@@ -1,5 +1,5 @@
 {
-  "name": "react-hot-avatar",
+  "name": "react-hot-avatarss",
   "author": "Aime Igirimpuhwe",
   "version": "1.0.0",
   "license": "MIT",
@@ -28,10 +28,10 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "module": "dist/react-hot-avatar.esm.js",
+  "module": "dist/react-hot-avatars.esm.js",
   "keywords": [
     "avatar-generator",
-    "react-hot-avatar",
+    "react-hot-avatars",
     "avatar",
     "react-avatar",
     "js-avatar",
