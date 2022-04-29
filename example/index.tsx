@@ -8,7 +8,7 @@ const App = () => {
 
   return (
     <div className="avatar-container">
-      <Avatar name="aime" size="300"/>
+      <Avatar name="aimed" size="400" />
     </div>
   );
 };
