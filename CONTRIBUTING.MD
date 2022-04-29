@@ -1,4 +1,4 @@
-# React-hot-avatar Contribution Guide
+# react-hot-avatars Contribution Guide
 
 Hello there :wave:, We're very happy you want to contribute to this project. But be sure to follow the Contribution guide && code of conduct before submitting your contribution:blush: .
 
@@ -15,5 +15,5 @@ To contribute follow these simple steps :smiley:
 Your branch should be name like `your_name/issue_fix` . Forexample: `gasaroleila/avatar-style`
 
 # Issues
-- If you spot a problem, search if an issue already exists in the [search the issue tracker](https://github.com/igaimerca/react-hot-avatar/issues). If a related issue doesn't exist, you can open a new issue using a relevant issue form.
-- If you want to simply solve issues, Find one to solve in the [existing issues](https://github.com/igaimerca/react-hot-avatar/issues)
+- If you spot a problem, search if an issue already exists in the [search the issue tracker](https://github.com/igaimerca/react-hot-avatars/issues). If a related issue doesn't exist, you can open a new issue using a relevant issue form.
+- If you want to simply solve issues, Find one to solve in the [existing issues](https://github.com/igaimerca/react-hot-avatars/issues)

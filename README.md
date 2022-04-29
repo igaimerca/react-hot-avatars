@@ -1,10 +1,10 @@
 <h1>&lt;Avatar/&gt;</h1>
 
-<img alt="react-hot-avatar - Try it out" src="https://github.com/igaimerca/react-hot-avatar/raw/main/assets/banner.png"/>
+<img alt="react-hot-avatars - Try it out" src="https://github.com/igaimerca/react-hot-avatars/raw/main/assets/banner.png"/>
 
 <div align="center">
-    <img src="https://img.shields.io/npm/dm/react-hot-avatar.svg" alt="npm downloads" />
-    <img src="https://img.shields.io/npm/v/react-hot-avatar.svg" alt="NPM Version" />
+    <img src="https://img.shields.io/npm/dm/react-hot-avatars.svg" alt="npm downloads" />
+    <img src="https://img.shields.io/npm/v/react-hot-avatars.svg" alt="NPM Version" />
 </a>
 </div>
 <br />
@@ -12,9 +12,9 @@
 <h5 align="center"> Lightweight, customizable and beautiful by default.</h4>
 <br />
 <div align="center">
-<a href="https://react-hot-avatar.vercel.app">Website</a> 
+<a href="https://react-hot-avatars.vercel.app">Website</a> 
 <span> · </span>
-<a href="https://www.npmjs.com/package/react-hot-avatar">npm</a> 
+<a href="https://www.npmjs.com/package/react-hot-avatars">npm</a> 
 </div>
 
 <div align="center">
@@ -28,21 +28,21 @@
 ### With [NPM](https://www.npmjs.com/):
 
 ```js
-npm install react-hot-avatar
+npm install react-hot-avatars
 ```
 
 ### With [Yarn](https://yarnpkg.com/):
 
 ```sh
-yarn add react-hot-avatar
+yarn add react-hot-avatars
 ```
 
 ## Getting Started
 
-1. Import the <code>Avatar</code> component from <code>react-hot-avatar</code>:
+1. Import the <code>Avatar</code> component from <code>react-hot-avatars</code>:
 
    ```js
-   import Avatar from 'react-hot-avatar';
+   import Avatar from 'react-hot-avatars';
    ```
 
 2. Start using it!
@@ -57,10 +57,10 @@ yarn add react-hot-avatar
    <Avatar name="_Leila" size="200" />
    ```
 
-A React Component using `react-hot-avatar`
+A React Component using `react-hot-avatars`
 
 ```jsx
-import Avatar from 'react-hot-avatar';
+import Avatar from 'react-hot-avatars';
 
 const App = () => {
   return (
@@ -100,7 +100,7 @@ Examples:
 If you feel like you are missing a cool feature in our package,
 here are few steps to follow for you to request an new feature
 
-- Create an issue [here](https://github.com/igaimerca/react-hot-avatar/issues/new)
+- Create an issue [here](https://github.com/igaimerca/react-hot-avatars/issues/new)
 - Add title of of the issue, eg: `requesting an active badge feature`
 - In your description try to add clear explanation about your feature with an image attached if possible.
 
@@ -124,8 +124,8 @@ For example: `gasaroleila/avatar-style`
 
 #### Issues
 
-- If you spot a problem, search if an issue already exists in the [search the issue tracker](https://github.com/igaimerca/react-hot-avatar/issues). If a related issue doesn't exist, you can open a new issue using a relevant issue form.
-- If you want to simply solve issues, Find one to solve in the [existing issues](https://github.com/igaimerca/react-hot-avatar/issues)
+- If you spot a problem, search if an issue already exists in the [search the issue tracker](https://github.com/igaimerca/react-hot-avatars/issues). If a related issue doesn't exist, you can open a new issue using a relevant issue form.
+- If you want to simply solve issues, Find one to solve in the [existing issues](https://github.com/igaimerca/react-hot-avatars/issues)
 
 ## Maintainers
 
