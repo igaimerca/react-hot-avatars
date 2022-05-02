@@ -36,6 +36,10 @@ npm install react-hot-avatars
 ```sh
 yarn add react-hot-avatars
 ```
+## Demo
+
+### Check live demo here [Link](https://react-hot-avatars.vercel.app)
+
 
 ## Getting Started
 
