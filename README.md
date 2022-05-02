@@ -1,12 +1,12 @@
-<h1>&lt;Avatar/&gt;</h1>
-
-<img alt="react-hot-avatars - Try it out" src="https://github.com/igaimerca/react-hot-avatars/raw/main/assets/banner.png"/>
-
-<div align="center">
+<h1>&lt;Avatar/&gt;
+<div>
     <img src="https://img.shields.io/npm/dm/react-hot-avatars.svg" alt="npm downloads" />
     <img src="https://img.shields.io/npm/v/react-hot-avatars.svg" alt="NPM Version" />
 </a>
-</div>
+</div></h1>
+
+<img alt="react-hot-avatars - Try it out" src="https://i.ibb.co/8d6qd7D/banner.png"/>
+
 <br />
 <div align="center"><h2>The Best React Avatars in Town.</h2></div>
 <h5 align="center"> Lightweight, customizable and beautiful by default.</h4>
